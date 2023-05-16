@@ -1,1 +1,1 @@
-# RGTX
+# RGTX Serra - Projeto de automação
